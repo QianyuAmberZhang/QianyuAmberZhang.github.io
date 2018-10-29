@@ -9,5 +9,6 @@
 
 # Qianyu (Amber) Zhang
 Hello! How's going? I'm 3rd-year computing & mathematics student at Queen's. Welcome to my personal website!
-- [My Github Link](https://github.com/Amber201604)
+- [My Resume Link](https://drive.google.com/file/d/1oDcHshyipePfqR6vMANpNmVOMSEQqWUT/view?usp=sharing)
+- [My Github Link (includes source code of my projects shown on the resume)](https://github.com/Amber201604)
 - (I'm still working on the web development. Please continue to follow up~)
