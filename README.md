@@ -34,6 +34,9 @@ Attended RBC/IBM workshops to design a new database structure of banking payment
 
 ## PROJECTS (source code on my GitHub page: github.com/Amber201604)
 
+### Conference attendee database, February 2019
+Created a database instance for a conference attendee data based on the relational schema in MySQL.
+
 ### JAST Recognize You (Queen’s 2019 Hackathon project), February 2019
 Developed a facial recognition app with 90% correct rate applying Convolutional neural network. Integrated it with an Android app so that the user can enable the program by taking a picture on phone.
 
