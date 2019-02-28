@@ -52,7 +52,7 @@ Built a pizza ordering system to encapsulated classes of pizza ordering and used
 
 ## SKILLS AND INTERESTS
 - Interests: Coding and Open-end Research on Natural Language Processing, Big Data, Database, Distributed System Design.
-- Tools: Python, Java, C, MySQL, MATLAB, Javascript, PHP, HTML, CSS,  JavaFX, Haskell, Prolog, Bash Scripting, Docker, Hadoop, Git.
+- Tools: Python, Java, C, C++, MySQL, MATLAB, Javascript, PHP, HTML, CSS,  JavaFX, Haskell, Prolog, Bash Scripting, Docker, Hadoop, Git.
 
 
 ## OTHER EXPERIENCE
