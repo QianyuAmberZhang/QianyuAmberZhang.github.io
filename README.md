@@ -6,8 +6,11 @@
   h3,h4,h5,h6,p {line-height: 1.5em;}
   a {color: #7100FF}
   body {background-color: black;}
+  p {color: white;}
 </style>
 
-<body></body>
+<body>
+  <p> abc </p>
+</body>
 
 
