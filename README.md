@@ -5,7 +5,7 @@
   h1 {font-style: bold;}
   h3,h4,h5,h6,p {line-height: 1.5em;}
   a {color: #7100FF}
-  body {background-color: black;}
+  body {background-color: red;}
   p {color: white;}
 </style>
 
